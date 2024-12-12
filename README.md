@@ -2,7 +2,7 @@
 - 👀 I’m interested in following my dreams...
 - 🌱 I’m currently learning coding..
 - 💞️ I’m looking to collaborate on big tech companiesss
-- 📫 How to reach me / mail meeee
+- 📫 How to reach me / mail meeee - salmathmullali@gmail.com
 - 😄 Pronouns: ...female
 - ⚡ Fun fact: ... iam using Github:(
 
