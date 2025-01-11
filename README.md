@@ -1,4 +1,5 @@
-      ![WhatsApp Image 2025-01-11 at 5 51 41 AM](https://github.com/user-attachments/assets/b8da1d88-24cc-4b36-947a-fde740f31a49)
+![Screenshot 2025-01-11 150622](https://github.com/user-attachments/assets/eaa65bdd-8cc6-4883-8dbe-d6eb15c26bd0)
+
 
 - 👀 I’m interested in following my dreams...
 - 🌱 I’m currently learning coding..
