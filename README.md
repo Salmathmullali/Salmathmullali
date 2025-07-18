@@ -8,6 +8,12 @@
 - 😄 Pronouns: ...female
 - ⚡ Fun fact: ... iam using Github:(
 
+
+
+### 🛠️ Skills & Tools
+
+Python · Django · HTML/CSS · Bootstrap · JS · Git · GitHub · Adobe Photoshop
+
 <!---
 Salmathmullali/Salmathmullali is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
