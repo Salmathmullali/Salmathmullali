@@ -1,12 +1,7 @@
 ![Screenshot 2025-01-11 150622](https://github.com/user-attachments/assets/eaa65bdd-8cc6-4883-8dbe-d6eb15c26bd0)
 
 
-- 👀 I’m interested in following my dreams...
-- 🌱 I’m currently learning coding..
-- 💞️ I’m looking to collaborate on big tech companiesss
-- 📫 How to reach me / mail meeee - salmathmullali@gmail.com
-- 😄 Pronouns: ...female
-- ⚡ Fun fact: ... iam using Github:(
+
 
 
 
@@ -33,12 +28,11 @@
 ## 🤝 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href=www.linkedin.com/in/salmath-mullali-098ba42a8><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/My Portfolio-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Click Here-FF6F61?style=for-the-badge"/></a>
+  <a href="salmathmullali@gmail.com"><img src="https://img.shields.io/badge/Click Here-FF6F61?style=for-the-badge"/></a>
 </p><br><br>
-![GitHub Activity](https://github-readme-stats.vercel.app/api?username=Salmathmullali&count_private=true&include_all_commits=true&show_icons=true&hide_title=true&theme=midnight-purple)
-<br><br>
+
 
 
 <!---
