@@ -21,6 +21,25 @@
   <img src="https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
+<br><br>
+## 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Salmathmullali&show_icons=true&theme=radical" alt="GitHub Stats"/>
+</p><br><br>
+## 🔥 Most Used Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salmathmullali&layout=compact&theme=radical"/>
+</p><br><br>
+## 🤝 Connect with Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/My Portfolio-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Click Here-FF6F61?style=for-the-badge"/></a>
+</p><br><br>
+![GitHub Activity](https://github-readme-stats.vercel.app/api?username=Salmathmullali&count_private=true&include_all_commits=true&show_icons=true&hide_title=true&theme=midnight-purple)
+<br><br>
+
 
 <!---
 Salmathmullali/Salmathmullali is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
