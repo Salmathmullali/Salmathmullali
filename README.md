@@ -17,21 +17,26 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 <br><br>
-## 📈 GitHub Stats
+### 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Salmathmullali&show_icons=true&theme=radical" alt="GitHub Stats"/>
-</p><br><br>
-## 🔥 Most Used Languages
-<p align="center">
+
+###🔥 Most Used Languages
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salmathmullali&layout=compact&theme=radical"/>
 </p><br><br>
-## 🤝 Connect with Me
+### 🤝 Connect with Me
 
 <p align="center">
-  <a href=www.linkedin.com/in/salmath-mullali-098ba42a8><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/My Portfolio-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="salmathmullali@gmail.com"><img src="https://img.shields.io/badge/Click Here-FF6F61?style=for-the-badge"/></a>
-</p><br><br>
+  <a href="https://www.linkedin.com/in/salmath-mullali-098ba42a8">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://salmathmullali.github.io/personal_website/">
+    <img src="https://img.shields.io/badge/My Portfolio-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:salmathmullali@gmail.com">
+    <img src="https://img.shields.io/badge/Click Here-FF6F61?style=for-the-badge"/>
+  </a>
+</p>
 
 
 
