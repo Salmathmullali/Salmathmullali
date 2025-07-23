@@ -1,6 +1,15 @@
 ![Screenshot 2025-01-11 150622](https://github.com/user-attachments/assets/eaa65bdd-8cc6-4883-8dbe-d6eb15c26bd0)
 
 <p align="center">
+  <marquee direction="up" scrollamount="2" behavior="scroll" height="100">
+    <h2>Hi I am Salmath Mullali</h2>
+  </marquee>
+
+  <p>Welcome to my GitHub profile</p>
+  <p>Click the love below to know me more ❤️</p>
+</p>
+
+<p align="center">
   <a href="https://salmathmullali.github.io/personal_website/">
     <img src="https://github.com/user-attachments/assets/93d803f2-437d-4756-8052-d379a2cdc881" alt="Click Me" width="250"/>
   </a>
