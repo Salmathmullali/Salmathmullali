@@ -1,11 +1,11 @@
 ![Screenshot 2025-01-11 150622](https://github.com/user-attachments/assets/eaa65bdd-8cc6-4883-8dbe-d6eb15c26bd0)
 
 <p align="center">
-  <a href="https://your-link-here.com">
-    <img src="https://raw.githubusercontent.com/your-username/your-repo/main/<img width="1536" height="1024" alt="Friendly Robots Holding Heart Button" src="https://github.com/user-attachments/assets/93d803f2-437d-4756-8052-d379a2cdc881" />
-" alt="Click Me" width="250"/>
+  <a href="https://salmathmullali.github.io/personal_website/">
+    <img src="https://github.com/user-attachments/assets/93d803f2-437d-4756-8052-d379a2cdc881" alt="Click Me" width="250"/>
   </a>
 </p>
+
 
 
 
