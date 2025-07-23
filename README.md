@@ -1,13 +1,10 @@
 ![Screenshot 2025-01-11 150622](https://github.com/user-attachments/assets/eaa65bdd-8cc6-4883-8dbe-d6eb15c26bd0)
 
-<p align="center">
-  <marquee direction="up" scrollamount="2" behavior="scroll" height="100">
-    <h2>Hi I am Salmath Mullali</h2>
-  </marquee>
+<h2 align="center">Hi, I am Salmath Mullali</h2>
 
-  <p>Welcome to my GitHub profile</p>
-  <p>Click the love below to know me more ❤️</p>
-</p>
+<p align="center">Welcome to my GitHub profile</p>
+
+<p align="center">Click the ❤️ below to know me more</p>
 
 <p align="center">
   <a href="https://salmathmullali.github.io/personal_website/">
