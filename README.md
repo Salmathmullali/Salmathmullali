@@ -1,17 +1,17 @@
-![Screenshot 2025-01-11 150622](https://github.com/user-attachments/assets/eaa65bdd-8cc6-4883-8dbe-d6eb15c26bd0)
+
 
 <h2 align="center">Hi, I am Salmath Mullali</h2>
 
 <p align="center">Welcome to my GitHub profile</p>
 
-<p align="center">Click the ❤️ below to know me more</p>
+<p align="center">Click the ❤️ below to know me more</p><br><br>
 
 <p align="center">
   <a href="https://salmathmullali.github.io/personal_website/">
     <img src="https://github.com/user-attachments/assets/93d803f2-437d-4756-8052-d379a2cdc881" alt="Click Me" width="250"/>
   </a>
 </p>
-
+<br><br>
 
 
 
