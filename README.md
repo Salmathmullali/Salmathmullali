@@ -45,8 +45,8 @@
     <img src="https://img.shields.io/badge/My Portfolio-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="mailto:salmathmullali@gmail.com">
-    <img src="https://img.shields.io/badge/Click Here-FF6F61?style=for-the-badge"/>
-  </a>
+  <img src="https://img.shields.io/badge/Click%20Here-FF6F61?style=for-the-badge" alt="Email Me"/>
+</a>
 </p>
 
 
