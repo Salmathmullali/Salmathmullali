@@ -14,7 +14,7 @@
 <br><br>
 
 
-<p align="center"><h1>🤝 Connect with Me</h1></p>
+<h2 align="center">🤝 Connect with Me</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/salmath-mullali-098ba42a8">
